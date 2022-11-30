@@ -34,7 +34,7 @@ void main() {
     popularity: 25.383,
     posterPath: "/phv2Jc4H8cvRzvTKb9X1uKMboTu.jpg",
     voteAverage: 9,
-    voteCount: 3134
+    voteCount: 31345
   );
 
   test('should be a subclass of Tv entity.', () async {
