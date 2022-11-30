@@ -37,7 +37,7 @@ void main() {
     voteCount: 3134
   );
 
-  test('should be a subclass of Tv entity', () async {
+  test('should be a subclass of Tv entity.', () async {
     final result = tTvModel.toEntity();
     expect(result, tTv);
   });
