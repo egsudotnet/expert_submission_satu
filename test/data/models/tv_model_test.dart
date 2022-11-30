@@ -39,6 +39,6 @@ void main() {
 
   test('should be a subclass of Tv entity.', () async {
     final result = tTvModel.toEntity();
-    expect(result, tTv);
+    expect(result1, tTv);
   });
 }
